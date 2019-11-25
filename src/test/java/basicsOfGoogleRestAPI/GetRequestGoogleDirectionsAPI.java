@@ -45,7 +45,7 @@ public class GetRequestGoogleDirectionsAPI {
 		
 		 for(int i=0;i<count;i++)
 		   {
-			 System.out.println(js.get("geocoded_waypoints["+i+"]"));
+			 //System.out.println(js.get("geocoded_waypoints["+i+"]"));
 			   //System.out.println();
 			   //System.out.println(js.get("results["+i+"].name"));
 		   }
